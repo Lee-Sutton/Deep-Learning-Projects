@@ -19,3 +19,8 @@ In this section I explore a number of different datasets using feed forward neur
 
 ## MNIST Handwriting recognition notebook
 In this notebook I examine the MNIST dataset with a feed forward neural network and then a convolution neural network. More information on the dataset can be found here https://www.tensorflow.org/versions/r0.10/tutorials/mnist/beginners/
+
+## Mushroom Classification
+Personal project where I examine the mushroom dataset presented in the
+kaggle competition here:
+https://www.kaggle.com/uciml/mushroom-classification
